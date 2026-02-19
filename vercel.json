@@ -1,5 +1,12 @@
 {
-    "rewrites": [
-        { "source": "/(.*)", "destination": "/" }
-          ]
-          }
+    "routes": [
+        {
+              "src": "/google1a3879c6cb5fef8b.html",
+                    "dest": "/google1a3879c6cb5fef8b.html"
+                        },
+                            {
+                                  "src": "/(.*)",
+                                        "dest": "/index.html"
+                                            }
+                                              ]
+                                              }
